@@ -16,7 +16,8 @@ No installs required. We’ll use Tailwind via CDN and GitHub’s web editor.
 ## 🧭 Quick Start (3 steps)
 
 1. **Fork this repo** (top-right button)  
-   _Screenshot placeholder:_ ![Fork](docs/screenshots/fork_screenshot.png)
+   _Screenshot placeholder:_ ![https://play.tailwindcss.com/LcWd4lRjAJ
+   ](docs/screenshots/fork_screenshot.png)
 
 2. **Open in a GitHub Codespace**  
    - Click the green **“Code”** button → select the **Codespaces** tab → click **“Create codespace on main”**  
